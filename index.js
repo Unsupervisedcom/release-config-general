@@ -1,6 +1,6 @@
 module.exports = {
     "branches": [
-        "main",
+        "production",
         {"name":  "staging", "prerelease":  true}
     ],
     "ci": false,
